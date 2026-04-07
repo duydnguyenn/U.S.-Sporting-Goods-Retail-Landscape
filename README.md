@@ -2,7 +2,7 @@
 
 A data analysis project examining the competitive dynamics, sales patterns, and customer demographics of the U.S. sporting goods retail market using 2025 transaction data.
 
-**Author:** Duy Nguyen | **Published:** January 20, 2026
+**Author:** Duy Nguyen | **Published:** January 2026
 
 ---
 
