@@ -39,7 +39,7 @@ This project analyzes spending patterns across the **top 5 sporting goods retail
 |---|---|
 | **Dataset** | Spend Patterns — SafeGraph via Dewey Data |
 | **Citation** | SafeGraph. (2022). *Spend Patterns* [Dataset]. Dewey Data. https://doi.org/10.82551/NSF5-R186 |
-| **Coverage** | January – November 2025 (12 months, December unavailable at time of analysis) |
+| **Coverage** | January – November 2025 (11 months, December unavailable at time of analysis) |
 | **Scope** | Anonymized monthly credit and debit card transactions at Points of Interest (POI) |
 | **Primary metric** | `RAW_TOTAL_SPEND` — total transaction spend per store per month |
 
